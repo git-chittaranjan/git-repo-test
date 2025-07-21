@@ -2,7 +2,10 @@
 function App() {
 
   return (
-    <div>Initial Code</div>
+    <div>
+      <div>Initial Code</div>
+      <div>2nd - Adding 2nd line</div>
+    </div>
   )
 }
 
